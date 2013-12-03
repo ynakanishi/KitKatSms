@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KITKAT SMS Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo_main">Please implement main Activity</string>
+    <string name="todo_compose">Please implement message compose Activity</string>
+
+</resources>
